@@ -37,12 +37,15 @@ public class task_8_season {
             case 6: case 7: case 8:
                 System.out.println("лето");
                 break;
+
             case 9: case 10: case 11:
                 System.out.println("осень");
                 break;
+
             case 1: case 2: case 12:
                 System.out.println("зима");
                 break;
+
             default:
                 System.out.println("это не номер месяца");
                 break;

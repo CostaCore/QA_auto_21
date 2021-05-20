@@ -25,9 +25,7 @@ public class task_12_pairNumbers {
              resultNum = Integer.parseInt(String.valueOf(stringNum.charAt(i)));
              if (resultNum % 2 ==0){
                  even++;
-             }
-//             else if (resultNum %2 != 0)
-             {
+             } else {
                  odd++;
              }
         }

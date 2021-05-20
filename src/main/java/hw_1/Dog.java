@@ -8,7 +8,6 @@ public class Dog {
     public String getName() {
         return name;
     }
-
     public void setName(String name) {
         this.name = name;
     }
@@ -16,7 +15,6 @@ public class Dog {
     public int getAge() {
         return age;
     }
-
     public void setAge(int age) {
         this.age = age;
     }
@@ -24,7 +22,6 @@ public class Dog {
     public Dog getDog() {
         return dog;
     }
-
     public void setDog(Dog dog) {
         this.dog = dog;
     }

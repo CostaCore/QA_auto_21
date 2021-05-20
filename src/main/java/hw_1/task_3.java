@@ -4,6 +4,7 @@ public class task_3 {
 
          public static int min(int a, int b) {
             //напишите тут ваш код
+
              int result;
              if (a > b){
                  result = b;

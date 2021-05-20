@@ -14,7 +14,6 @@ public class task_5 {
             System.out.println(multiplicationTable(9));
             System.out.println(multiplicationTable(10));
 
-
         }
         public static String multiplicationTable (int number){
             //напишите тут ваш код
