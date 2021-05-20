@@ -1,6 +1,7 @@
 package hw_1;
 
 public class task_7_Human {
+    //task 7
     public static void main(String[] args) {
         Human human = new Human();
         human.setName("Макс");

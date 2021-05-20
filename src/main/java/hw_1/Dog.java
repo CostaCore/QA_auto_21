@@ -1,6 +1,7 @@
 package hw_1;
 
 public class Dog {
+    //task 10
 
     private String name;
     private int age;

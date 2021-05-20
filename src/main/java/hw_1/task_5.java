@@ -1,6 +1,7 @@
 package hw_1;
 
 public class task_5 {
+    //task 5
 
         public static void main(String[] args) {
             System.out.println(multiplicationTable(1));

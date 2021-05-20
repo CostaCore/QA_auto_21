@@ -1,6 +1,7 @@
 package hw_1;
 
 public class task_8_season {
+    //task 8
     public static void main(String[] args) {
         checkSeason(12);
         checkSeason(4);

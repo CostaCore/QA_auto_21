@@ -1,6 +1,7 @@
 package hw_1;
 
 public class Human {
+    //task 9
 
     private String name;
     private int age;

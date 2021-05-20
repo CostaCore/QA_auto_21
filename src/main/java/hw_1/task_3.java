@@ -1,6 +1,7 @@
 package hw_1;
 
 public class task_3 {
+    //task 3
 
          public static int min(int a, int b) {
             //напишите тут ваш код

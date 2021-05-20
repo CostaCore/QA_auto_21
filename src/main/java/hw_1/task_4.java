@@ -1,6 +1,7 @@
 package hw_1;
 
 public class task_4 {
+    //task 4
         public static int convertToSeconds(int hour){
 
             return hour * 3600;

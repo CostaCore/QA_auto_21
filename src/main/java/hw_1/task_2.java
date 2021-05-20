@@ -1,8 +1,7 @@
 package hw_1;
 
-import java.util.Map;
-
 public class task_2 {
+    //task 2
     public static void main(String[] args) {
         Man man = new Man();
         Woman woman = new Woman();
